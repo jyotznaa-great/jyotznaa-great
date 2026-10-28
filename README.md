@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Jyotzna K Ashok! 👋
 
-<!--
-**jyotznaa-great/jyotznaa-great** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 Currently learning programming and software development.
+- 💻 Interested in Web Development, Python, and Data Structures.
+- 🚀 Building projects to improve my coding skills.
+- 🎯 Always eager to learn new technologies and solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Technologies
+- C
+- C++
+- Python
+- Java
+- HTML & CSS
+- JavaScript
+- MySQL
+- PHP
+
+### 📂 Projects
+- 🌟 Placement & Progression Portal
+- 🛒 Online Cookware Store
+- 💧 Aquabloom – Product Landing Page
+- 📚 Library Catalogue Management System
+
+### 📫 Connect With Me
+
+
+---
+
+⭐ *Thanks for visiting my profile! Keep learning, keep building.*
